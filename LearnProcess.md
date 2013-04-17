@@ -17,6 +17,7 @@ a o e i u ü
 ai ei ui ao ou iu ie üe er an en in un vn ang eng ing ong   
 * 整体认读音节  
 zhi chi shi ri zi ci si yi wu yu ye yue yuan yin yun ying   
+
 ## 声调
 ## 音节
 ## 拼音
